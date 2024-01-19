@@ -7,6 +7,24 @@
   margin: 10px;
 }
 
+.projects {
+  border: 2px solid white;
+  height: flex;
+  width: flex;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
+.contact {
+  border: 2px solid white;
+  height: flex;
+  width: flex;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+
 body {
   padding: 20px;
 }
